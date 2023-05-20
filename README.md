@@ -1,4 +1,15 @@
 ### Hi there 👋
+My name is Sergio Nicolás Alegre
+================================
+Full Stack Developer
+---------------------
+>  I am new in this world of web programming with the use of javascript, html and css. 
+>  I have a certificate from Digital House as Full Stack Developer.
+>  But i don't agree or be capcired to work like this. So...
+>  
+## I am currently learning more about Front End and doing a Bootcamp with very knowledgeable and nice people.
+
+
 
 <!--
 **aleSer308/aleSer308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
